@@ -1,0 +1,6 @@
+train: C:/Users/ADMIN/Documents/Python/Train_Yolo_Mask_NoMask/train/images
+test: C:/Users/ADMIN/Documents/Python/Train_Yolo_Mask_NoMask/test/images
+val: C:/Users/ADMIN/Documents/Python/Train_Yolo_Mask_NoMask/valid/images
+
+nc: 2
+names: ['mask', 'no_mask']
